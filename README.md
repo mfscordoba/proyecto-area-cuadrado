@@ -1,1 +1,1 @@
-# proyecto-area-cuadrado
+# Ejercicios Python
